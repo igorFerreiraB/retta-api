@@ -22,6 +22,7 @@ class Despesa extends Model
         'valor_documento',
         'url_documento',
         'nome_fornecedor',
+        'cnpj_cpf_fornecedor',
         'valor_liquido',
         'valor_glosa',
         'num_ressarcimento',
